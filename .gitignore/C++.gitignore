@@ -1,0 +1,52 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+#张明辉添加
+/Debug/
+/Release/
+/debug/
+/release/
+/build/
+/lib/
+/bin/
+/GeneratedFiles/
+/.vs/
+/x64/
+
+#vs 忽略文件
+*.VC.db
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+
