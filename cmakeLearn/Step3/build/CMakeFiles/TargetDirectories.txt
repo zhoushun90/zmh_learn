@@ -1,4 +1,0 @@
-E:/git/sdv/zmh_learn/cmakeLearn/Step3/build/CMakeFiles/Tutorial.dir
-E:/git/sdv/zmh_learn/cmakeLearn/Step3/build/CMakeFiles/ALL_BUILD.dir
-E:/git/sdv/zmh_learn/cmakeLearn/Step3/build/CMakeFiles/ZERO_CHECK.dir
-E:/git/sdv/zmh_learn/cmakeLearn/Step3/build/MathFunctions/CMakeFiles/MathFunctions.dir
